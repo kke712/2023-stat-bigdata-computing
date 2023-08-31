@@ -1,0 +1,9 @@
+ssh-keygen
+
+cat ~/.ssh/id_rsa.pub
+
+키복사 
+
+ssh 설정 키 등록 (ssh-포함)
+
+git pull origin main
